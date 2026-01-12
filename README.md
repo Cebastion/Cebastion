@@ -49,3 +49,9 @@ Later, I began applying for front-end developer positions and joined a company c
 
 Now, I am a strong front-end developer who can solve a wide range of problems and work effectively in a team.
 </details>
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
