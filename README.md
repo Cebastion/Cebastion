@@ -26,8 +26,8 @@ I'm an indea Front-end developer with 2.5 years
 <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
 
-<br clear="all" /> 
 ---
+
 
 ### 📊 Stats
 
