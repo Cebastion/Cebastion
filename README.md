@@ -34,16 +34,11 @@ I have experience solving real-life problems with code and working effectively i
 
 ### 📊 Stats
 
-<table align="center">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Cebastion&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cebastion&show_icons=true&theme=gruvbox&layout=compact" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cebastion&show_icons=true&theme=gruvbox" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cebastion&show_icons=true&theme=gruvbox&layout=compact" />
+</p>
 
 ---
 
