@@ -8,7 +8,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 🧰 Languages and Tools
 
-<div width="100%" align="center" background-color="white">
+<div style="background-color: #f1f1f1; padding: 10px; width: 100%;">
           <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
           <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" />
           <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
