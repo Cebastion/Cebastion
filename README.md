@@ -1,6 +1,10 @@
 # 🏄‍♂️ Dmytro Kosenko
 
-I'm an indea Front-end developer with 2.5 years
+I am an indie front-end developer with 2.5 years of experience. I continuously grow as a specialist and expand my skill set.
+
+I have worked as a full-time employee in a company, as an outsourced developer, and as an independent freelancer on platforms such as Kwork, Upwork, and Weblancer.
+
+I have experience solving real-life problems with code and working effectively in a team.
 
 ---
 
@@ -26,8 +30,7 @@ I'm an indea Front-end developer with 2.5 years
 <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
 <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
 
----
-
+<br/>
 
 ### 📊 Stats
 
