@@ -36,7 +36,7 @@ I have experience solving real-life problems with code and working effectively i
 
 ![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Cebastion&show_icons=true&theme=gruvbox)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cebastion)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Cebastion)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Cebastion&show_icons=true&theme=gruvbox)
 
 ---
 
