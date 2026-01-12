@@ -21,9 +21,10 @@
 
 #
 
-### 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cebastion&show_icons=true&theme=gruvbox)
+
+<br clear="all" /> ### 📊 Stats
+<img src="https://github-readme-stats.vercel.app/api?username=Cebastion&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
