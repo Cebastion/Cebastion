@@ -1,6 +1,6 @@
 # 🏄‍♂️ Dmytro Kosenko
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 600k subscribers.
+I'm an indea Front-end developer with 2.5 years
 
 ---
 
@@ -27,12 +27,13 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="Java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original-wordmark.svg" />
 
 <br clear="all" /> 
+---
 
 ### 📊 Stats
 
 ![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Cebastion&show_icons=true&theme=gruvbox)
 
-
+---
 
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
