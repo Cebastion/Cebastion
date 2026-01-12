@@ -35,7 +35,7 @@ I have experience solving real-life problems with code and working effectively i
 ### 📊 Stats
 
 ![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Cebastion&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Cebastion&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Cebastion&show_icons=true&theme=gruvbox&layout=compact)
 
 ---
 
